@@ -1,9 +1,12 @@
 {
   "tool": "tconstruct:plate_helmet",
   "text": [
-    { "text": "专门给铁头娃准备的结实头盔。" },
-	{
-      "text": "一顶十分厚实的头盔，专门保护你的脑袋。再无东西能磕到你的头！", "paragraph": true
+    {
+      "text": "专门给铁头娃准备的结实头盔。"
+    },
+    {
+      "text": "一顶十分厚实的头盔，专门保护你的脑袋。再无东西能磕到你的头！",
+      "paragraph": true
     }
   ],
   "properties": [

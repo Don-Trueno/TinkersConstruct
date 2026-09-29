@@ -27,6 +27,10 @@ upgrades.group_armor.helmet=头盔升级
 upgrades.group_armor.chestplate=胸甲升级
 upgrades.group_armor.leggings=护腿升级
 upgrades.group_armor.boots=靴子升级
+upgrades.boots.tconstruct.feather_fall=摔落缓冲
+# can add other modifiers using [section].[prefix].[mod_id].[modifier_id], we just use this for long names
+# you should also be able to leave off feather falling in your language and it will fallback to the language .json
+# see the section json to find the prefix, any modifier type that defines that can use it
 
 slotless=无槽位强化
 slotless.subtext=不需要槽位就能加持，只要你想可以都加上。

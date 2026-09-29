@@ -1,9 +1,12 @@
 {
   "tool": "tconstruct:plate_shield",
   "text": [
-    { "text": "闪亮的长方形盾牌，辉煌的长方形传记。" },
     {
-      "text": "强力的盾牌，再强的攻击都能抵挡。用盾牌基底与熔融金属或陶瓷打造。", "paragraph": true
+      "text": "闪亮的长方形盾牌，辉煌的长方形传记。"
+    },
+    {
+      "text": "强力的盾牌，再强的攻击都能抵挡。用盾牌基底与熔融金属或陶瓷打造。",
+      "paragraph": true
     }
   ],
   "properties": [

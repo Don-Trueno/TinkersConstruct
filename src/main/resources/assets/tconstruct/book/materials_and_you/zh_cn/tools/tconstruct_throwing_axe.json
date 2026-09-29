@@ -4,12 +4,12 @@
     {
       "text": "投斧也是一种可投掷的弹射物，打击力度更强，但射程相对更近。"
     },
-	  {
+    {
       "text": "\n"
     },
-	  {
+    {
       "text": "投斧也无法接受强化，但谁还需要强化？",
-	    "paragraph": true
+      "paragraph": true
     }
   ],
   "properties": [

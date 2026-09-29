@@ -9,7 +9,6 @@
     }
   ],
   "more_text_space": true,
-  "tool_filter": "tconstruct:modifiable/held",
   "effects": [
     "无等级上限",
     "每级需要1个能力槽",
