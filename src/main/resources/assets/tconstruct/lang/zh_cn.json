@@ -1912,12 +1912,12 @@
   "material.tconstruct.leather.skull": "僵尸",
   "material.tconstruct.leather.flavor.skull": "小僵僵们，最近过得怎么样啊？",
   "material.tconstruct.leather.encyclopedia.skull": "使来自亡灵生物的伤害减少10%。",
-  "material.tconstruct.leather.encyclopedia.laces": "可以在细雪上行走，可以阻止很多危险方块产生伤害。提升等级可以阻止荆棘伤害。",
+  "material.tconstruct.leather.encyclopedia.laces": "可以在细雪上行走，在一些危险方块上行走时不再受到伤害。提升材料特性等 级后，可以阻止荆棘伤害。",
 
   "material.tconstruct.vine": "藤蔓",
   "material.tconstruct.vine.flavor": "朝气蓬勃，不像那死气沉沉的社交网络。",
-  "material.tconstruct.vine.encyclopedia": "工具有5%×天空光照的概率在使用时不消耗耐久度，完全置于阳光下时概率最大为75%。",
-  "material.tconstruct.vine.encyclopedia.laces": "工具有5%×天空光照的概率在使用时不消耗耐久度，完全置于阳光下时概率最大为75%。提升等级后概率改为6%×天空光照，最大为90%。",
+  "material.tconstruct.vine.encyclopedia": "工具有5%×天空光照的概率在使用时不消耗耐久度，完全置于阳光下时概率 最大提升至75%。",
+  "material.tconstruct.vine.encyclopedia.laces": "工具有5%×天空光照的概率在使用时不消耗耐久度，完全置于阳光下时概率 最大为75%。提升材料特性等级后，概 率改为6%×天空光照，最大提升至90%。",
 
 
   "__comment": "Tier 2 Materials",
@@ -1976,7 +1976,7 @@
   "material.tconstruct.venombone.encyclopedia": "中毒时，近战伤害增加0.5+中毒等级。",
   "material.tconstruct.venombone.encyclopedia.ranged": "中毒时，拉弓速度将增加0.05+0.1×中毒等级。",
   "material.tconstruct.venombone.encyclopedia.armor": "受到攻击后，有15%概率对攻击者施加毒素效果，该效果会让它在接下来5至10秒 内受到的魔法伤害增加到200%（成功格挡则最长持续时间改为15秒）。",
-  "material.tconstruct.venombone.encyclopedia.ammo": "对目标施加毒素效果，该效果会让它在接下来5至10秒内受到的魔法伤害增加到200%。",
+  "material.tconstruct.venombone.encyclopedia.ammo": "对目标施加毒素效果，该效果会让它在接下来5至10秒内受到的魔法伤害增加到 200%。",
   "material.tconstruct.venombone.encyclopedia.ribcage": "中毒时，空手攻击伤害增加0.5+中毒等级。",
 
   "material.tconstruct.rose_gold": "玫瑰金",
@@ -1995,7 +1995,7 @@
 
   "material.tconstruct.skyslimeskin": "黏液皮",
   "material.tconstruct.skyslimeskin.flavor": "掠翅碧空……被蜜蜂蜇。",
-  "material.tconstruct.skyslimeskin.encyclopedia.armor": "被滞空的生物攻击时，每级减少10%伤害。",
+  "material.tconstruct.skyslimeskin.encyclopedia.armor": "被滞空的生物攻击时，每级使受到的伤害减少10%。",
 
   "material.tconstruct.weeping_vine": "垂泪藤",
   "material.tconstruct.weeping_vine.flavor": "传导热量",
@@ -2225,7 +2225,7 @@
   "material.tconstruct.blazing_bone.encyclopedia": "每剩余1秒着火时间，攻击伤害+2%，上限为+20%（剩余着火时间不少于10秒）。加成会受抗火效果影响而减少。",
   "material.tconstruct.blazing_bone.encyclopedia.ranged": "每剩余1秒着火时间，箭矢伤害+2%，上限为+20%（剩余着火时间不少于10秒）。加成会受抗火效果影响而减少。",
   "material.tconstruct.blazing_bone.encyclopedia.armor": "受到攻击后，有15%概率使攻击者施加导热效果，该效果会让它在接下来5至10秒 内受到的火焰伤害增加到200%（成功格挡 则最长持续时间改为15秒）。",
-  "material.tconstruct.blazing_bone.encyclopedia.ammo": "对目标施加导热效果，该效果会让它在接下来5至10秒内受到的火焰伤害增加到200%。",
+  "material.tconstruct.blazing_bone.encyclopedia.ammo": "对目标施加导热效果，该效果会让它在接下来5至10秒内受到的火焰伤害增加到 200%。",
   "material.tconstruct.blazing_bone.encyclopedia.ribcage": "空手攻击施加导热效果，该效果使目标在接下来5秒受到的火焰伤害增加到200%，每级延长1秒，最多持续10秒。",
 
   "material.tconstruct.blazewood": "烈焰木",
@@ -2302,8 +2302,8 @@
   "material.tconstruct.enderslime_vine.flavor": "结束了？",
   "material.tconstruct.enderslime_vine.encyclopedia.melee_harvest": "将持有者传送到挖掉的方块处，或交换持有者与被击中生物的位置。",
   "material.tconstruct.enderslime_vine.encyclopedia.ranged": "将持有者传送到击中方块的箭矢处，或交换持有者与被命中生物的位置。",
-  "material.tconstruct.enderslime_vine.encyclopedia.armor": "受伤前有7.5%概率闪避，触发后进入短暂冷却。伤害来自弹射物时触发概率翻倍。",
-  "material.tconstruct.enderslime_vine.encyclopedia.laces": "受伤前有7.5%×等级概率闪避，触发后进入短暂冷却。伤害来自弹射物时触发概率翻倍。",
+  "material.tconstruct.enderslime_vine.encyclopedia.armor": "受伤前有7.5%概率闪避，触发后进入短暂冷却。伤害来自弹射物时，触发概率 翻倍。",
+  "material.tconstruct.enderslime_vine.encyclopedia.laces": "受伤前有7.5%×等级概率闪避，触发后进入短暂冷却。伤害来自弹射物时，触发 概率翻倍。",
 
   "material.tconstruct.enderslimeskin": "黏液皮",
   "material.tconstruct.enderslimeskin.flavor": "拜拜了您嘞！",
@@ -2312,7 +2312,7 @@
   "material.tconstruct.enderslime": "末影黏液",
   "material.tconstruct.enderslime.flavor": "去无踪",
   "material.tconstruct.enderslime.encyclopedia.ammo": "使目标随机传送到最多16格远，2级时改为最多24格远。",
-  "material.tconstruct.enderslime.encyclopedia.slime": "受伤前有7.5%×等级概率闪避，触发后进入短暂冷却。伤害来自弹射物时触发概率翻倍。",
+  "material.tconstruct.enderslime.encyclopedia.slime": "受伤前有7.5%×等级概率闪避，触发后进入短暂冷却。伤害来自弹射物时，触发 概率翻倍。",
 
 
   "__comment": "Slimesuit materials",
@@ -2347,8 +2347,8 @@
 
   "material.tconstruct.cheese": "奶酪",
   "material.tconstruct.cheese.flavor": "饱经岁月！",
-  "material.tconstruct.cheese.encyclopedia.ranged": "每级有15%概率可以食用工具。食用后，消耗耐久度并回复等同于等级数的饥饿 值，附加0.4点饱和度乘数，并移除一个随机效果。",
-  "material.tconstruct.cheese.encyclopedia.laces": "每级有15%概率可以食用盔甲。食用后，消耗耐久度并回复等同于等级数的饥饿 值。附加0.4点饱和度乘数，并移除一个随机效果。",
+  "material.tconstruct.cheese.encyclopedia.ranged": "每级有15%概率可以食用工具。食用后，消耗耐久度并回复等同于等级数的饥饿 值，附加0.4点饱和度乘数，并移除一个 随机效果。",
+  "material.tconstruct.cheese.encyclopedia.laces": "每级有15%概率可以食用盔甲。食用后，消耗耐久度并回复等同于等级数的饥饿 值。附加0.4点饱和度乘数，并移除一个 随机效果。",
 
   "material.tconstruct.blood": "血",
 
@@ -2428,7 +2428,7 @@
   "material.tconstruct.necronium.flavor": "这根骨头“烂”的要在“半条命”上再打个“对折”。",
   "material.tconstruct.necronium.encyclopedia": "对目标生物施加等同于特性等级的凋零效果，持续6秒；另有25%概率使自己获 得相同效果。",
   "material.tconstruct.necronium.encyclopedia.armor": "受到攻击后，有50%概率对攻击者施加凋零效果，持续6秒（成功格挡则改为 100%概率）； 另有10%概率使自己获得 相同效果。",
-  "material.tconstruct.necronium.encyclopedia.ribcage": "空手攻击对目标生物施加等同于特性等级的凋零效果，持续6秒；有25%概率使自己获得相同效果。",
+  "material.tconstruct.necronium.encyclopedia.ribcage": "空手攻击对目标生物施加等同于特性等级的凋零效果，持续6秒；有25%概率使 自己获得相同效果。",
 
   "material.tconstruct.plated_slimewood": "复合黏木",
   "material.tconstruct.plated_slimewood.flavor": "黄铜的光泽加黏液的触感，棒极了！",
