@@ -1912,7 +1912,7 @@
   "material.tconstruct.leather.skull": "僵尸",
   "material.tconstruct.leather.flavor.skull": "小僵僵们，最近过得怎么样啊？",
   "material.tconstruct.leather.encyclopedia.skull": "使来自亡灵生物的伤害减少10%。",
-  "material.tconstruct.leather.encyclopedia.laces": "可以在细雪上行走，在一些危险方块上行走时不再受到伤害。提升材料特性等 级后，可以阻止荆棘伤害。",
+  "material.tconstruct.leather.encyclopedia.laces": "可以在细雪上行走，在一些危险方块上行走时不再受到伤害。添加“纹饰”后还可阻止荆棘伤害。",
 
   "material.tconstruct.vine": "藤蔓",
   "material.tconstruct.vine.flavor": "朝气蓬勃，不像那死气沉沉的社交网络。",
@@ -1957,7 +1957,7 @@
   "material.tconstruct.gold.encyclopedia.armor": "每级对魔法伤害保护+10%，减少负面效果时间。让猪灵变得友好。",
   "material.tconstruct.gold.skull": "猪灵",
   "material.tconstruct.gold.flavor.skull": "金闪闪",
-  "material.tconstruct.gold.encyclopedia.skull": "金矿石掉落额外金粒，金盔甲的掉落概率+4%。提升等级、穿戴更多金盔甲可以额外增加金粒和金盔甲的掉落概率。",
+  "material.tconstruct.gold.encyclopedia.skull": "金矿石掉落额外金粒，金盔甲的掉落概率+4%。添加“纹饰”、穿戴更多金盔甲可继续增加金粒和金盔甲的掉落。",
 
   "material.tconstruct.slimewood": "黏木",
   "material.tconstruct.slimewood.greenheart":  "绿心木",
@@ -1984,7 +1984,7 @@
   "material.tconstruct.rose_gold.encyclopedia": "每个部件增加1个额外的升级槽。",
   "material.tconstruct.rose_gold.skull": "猪灵蛮兵",
   "material.tconstruct.rose_gold.flavor.skull": "把那件臂铠拿来物尽其用",
-  "material.tconstruct.rose_gold.encyclopedia.skull": "最大生命值增加1颗心。每件正在穿戴的金盔甲继续增加1颗心。",
+  "material.tconstruct.rose_gold.encyclopedia.skull": "最大生命值增加2颗心。如有“纹饰”或其他正在穿戴的金盔甲，则每件使最大生命值额外增加2颗心。",
 
   "material.tconstruct.skyslime_vine": "黏液藤蔓",
   "material.tconstruct.skyslime_vine.flavor": "掠翅碧空，蜇刺似蜂。",
@@ -2084,7 +2084,7 @@
 
   "material.tconstruct.nautilus": "鹦鹉螺",
   "material.tconstruct.nautilus.flavor": "海的味道我知道",
-  "material.tconstruct.nautilus.encyclopedia.shell": "免疫中毒I、饥饿II、反胃I，提升等级可以提高可免疫的负面效果的最大等级。",
+  "material.tconstruct.nautilus.encyclopedia.shell": "免疫中毒I、饥饿II、反胃I，添加“纹饰”以提升上述可免疫负面效果的最大等级。",
 
   "material.tconstruct.blaze": "烈焰棒",
   "material.tconstruct.blaze.flavor": "烧光一切",
@@ -2330,8 +2330,9 @@
   "material.tconstruct.venom.encyclopedia.slime": "每级获得10%对魔法伤害的抗性，缩短负面药水效果持续时间。",
 
   "material.tconstruct.phantom": "幻翼膜",
-  "material.tconstruct.phantom.flavor.shell": "飘渺如幻翼",
-  "material.tconstruct.phantom.encyclopedia.shell": "使重力减少5%，每件盔甲每级再减少10%。",
+  "material.tconstruct.phantom.flavor.shell": "幻翼拳法",
+  "material.tconstruct.phantom.encyclopedia": "光照等级小于10后，每降低1级提供0.5%保护；处于完全黑暗环境中时最大为5%。",
+  "material.tconstruct.phantom.encyclopedia.shell": "可在空中多跳跃一次，但在没有“纹饰”的情况下使重力增加。",
 
   "material.tconstruct.horn": "山羊角",
   "material.tconstruct.horn.minecraft.ponder_goat_horn": "沉思山羊角",
@@ -3313,6 +3314,13 @@
   "modifier.tconstruct.skyfall": "伞降",
   "modifier.tconstruct.skyfall.flavor": "“落落”大方！",
   "modifier.tconstruct.skyfall.description": "减少重力效果",
+  "modifier.tconstruct.nightmare_protection": "黑夜保护",
+  "modifier.tconstruct.nightmare_protection.flavor": "夜间抵御怪物！",
+  "modifier.tconstruct.nightmare_protection.description": "在黑暗环境中提升保护",
+  "modifier.tconstruct.nightmare_protection.resistance": "黑暗抗性",
+  "modifier.tconstruct.dreambound": "梯云纵",
+  "modifier.tconstruct.dreambound.flavor": "身轻如幻翼",
+  "modifier.tconstruct.dreambound.description": "可在空中多跳跃一次，但重力增加。",
   "modifier.tconstruct.forming": "自塑",
   "modifier.tconstruct.forming.flavor": "攻击吸收",
   "modifier.tconstruct.forming.description": "增加护甲值和击退抗性",
